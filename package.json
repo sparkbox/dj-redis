@@ -1,0 +1,18 @@
+{
+  "name": "dj-redis",
+  "version": "0.0.1",
+  "description": "Consumer of the redis cue for sonos commands",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sonos"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "redis": "^2.6.0-1",
+    "sonos": "^0.12.0"
+  }
+}
